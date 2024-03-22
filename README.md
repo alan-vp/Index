@@ -5,16 +5,16 @@ This is an index to some projects. You will find them organized by the main lang
 * [Ruby on Rails Proyects](#ror)
 * [Javascipt Proyects](#js)
 * [Liquid Shopify Stores](#shopify)
-<a name="#ror"> </a>
+<a name="#ror"></a>
 ## Ruby on Rails Projects.
    * Te llevo
    * Handdy
    * Checkpoint Access
-<a name="#js"> </a>
-## * Javascript Projects.
+<a name="#js"></a>
+## Javascript Projects.
 *   Api-Weather
-<a name="#shopify"> </a>
-## * Liquid Shopify Stores.
+<a name="#shopify"></a>
+## Liquid Shopify Stores.
   * Tosi.
   * Modi Toys.
   * Jade Swim.
