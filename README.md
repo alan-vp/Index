@@ -1,60 +1,39 @@
 # Index
 This is an index to some projects. You will find them organized by the main language and each project has an introduction to them.
 
-## Contents     
-## [Liquid Shopify Stores](#shopify)
- * [Tosi](#tosi)
- * [Modi Toys](#modi)
- * [Jade Swim](#jade)
- * [Organic Beer](#organic)
- * [Paperless Post](#paperless)
- * [Canoe](#canoe)
- * [Frannie](#frannie)
- * [Etnies](#etnies)
+## Contents 
 
-## [Javascipt Projects](#js)
- * [Weather Search](#weather)
-   
-## [Ruby on Rails Projects](#ror)
- * [Checkpoint Access](#checkpoint) 
- * [Hanndy](#handdy)
- * [Te llevo](#tellevo)
-     
-<a name="shopify"></a>
 ## Liquid Shopify Stores.
-Working as a part-time Font End Developer for [Maria Reyes](https://github.com/majovanilla) at "The Joking Dev" I have the opportunity to get involved in several projects for different clients.
-In this position, I developed custom templates and features, and worked on the appearance of the stores giving them 
+Working as a part-time Font End Developer at "The Joking Dev" I had the opportunity to get involved in several stores of international clients.
+In this position, I developed templates, features, and theme customizations.
 <a name="tosi"></a>
-  * [Tosi](https://tosi.com/) For this client I helped to upgrade the store theme to version Shopify 2.0, mostly changing the previous custom code of the templates and sections to a more user-friendly version. 
- <a name="modi"></a> In this case I created some custom sections and blocks for the specific requirements 
-  * [Modi Toys](https://www.moditoys.com/)
+  * [Tosi](https://tosi.com/) Upgraded the store theme to version Shopify 2.0, and transferred custom code to the new theme.
+ <a name="modi"></a>
+  * [Modi Toys](https://www.moditoys.com/)  Upgraded the store theme to version Shopify 2.0, and created custom theme sections.
  <a name="jade"></a>
-  * [Jade Swim](https://jadeswim.com/) 
+  * [Jade Swim](https://jadeswim.com/) Custom theme development, accessibility changes to comply with WCAG 2.1
  <a name="organic"></a>
-  * [Organic Beer](https://organicbeer.it/) 
+  * [Organic Beer](https://organicbeer.it/) Custom product information (VAT, Price per liter).
  <a name="paperless"></a>
-  * [Paperless Post](https://www.paperlesspost.com/) Redesign of the email campaign templates (Checkout, add to cart). 
+  * [Paperless Post](https://www.paperlesspost.com/) Built email notification templates based on a given design. 
  <a name="canoe"></a> 
-  * [Canoe](https://shopcanoeclub.com/) Worked on the general appearance of the site, and some specific functions like the search bar.
- <a name="etnies"></a>
-  * [Etnies](https://etnies.com/)
+  * [Canoe](https://shopcanoeclub.com/) Custom theme development.
 
-<a name="js"></a>
 ## Javascript Projects.
 <a name="weather"></a>
 *   [Weather Search Repo](https://github.com/alan-vp/weatherSearch)
 [Live version](https://cute-meerkat-09dd3b.netlify.app/)
-The main goal of this project was to practice making API calls to a remote service. The app is connected to the [Open Weather API](https://openweathermap.org/api) which allows the user to know the weather conditions of a particular city and the maximum and minimum temperature of the current day.
+The main goal of this project was to consume an API and render the information dynamically. The app is connected to the [Open Weather API](https://openweathermap.org/api) which allows the user to get the weather conditions of a particular city and the maximum and minimum temperature of the current day.
 
-<a name="ror"></a>
+
 ## Ruby on Rails Projects.
 <a name="checkpoint"></a>
   * [Checkpoint Repo](https://github.com/alan-vp/checkpoint_access)
-This is an app for companies or organizations to track and control the access and exits of employees, company vehicles, and visitors.
-The challenge was to build the app from scratch, design the architecture, the models, and the associations between them. Implement authorization and authentication methods.
+This is an app focused on companies or organizations. It's an entrance/exit tracker of employees, company vehicles, and visitors.
+The challenge was to build the app from scratch, design the architecture, models, and associations between them. Implement authorization and authentication methods.
 The general functionalities for all users are: login, logout, edit their profile, and check all the entrance and exit registers among other standard functionalities.
-For the admin users there are exclusive functionalities: create new users, companies, or company vehicle registers, and also the capability to edit them, also set a user, company, or company vehicle as active or inactive, or even 
-For the non-admin users are also exclusive functionalities: create entrance and exit registers.
+For the admin, there are exclusive functionalities: CRUD actions for users, companies, or company vehicles.
+For non-admin there are also exclusive functionalities: create entrance and exit records.
 
 # Login.
 
