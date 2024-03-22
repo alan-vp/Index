@@ -51,4 +51,5 @@ This is an index to some projects. You will find them organized by the main lang
 <a name="js"></a>
 ## Javascript Projects.
 <a name="weather"></a>
+[Live version](https://cute-meerkat-09dd3b.netlify.app/)
 *   Api-Weather
