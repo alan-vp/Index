@@ -55,7 +55,22 @@ The challenge was to build the app from scratch, design the architecture, the mo
 The general functionalities for all users are: login, logout, edit their profile, and check all the entrance and exit registers among other standard functionalities.
 For the admin users there are exclusive functionalities: create new users, companies, or company vehicle registers, and also the capability to edit them, also set a user, company, or company vehicle as active or inactive, or even 
 For the non-admin users are also exclusive functionalities: create entrance and exit registers.
+
+# Login.
+
 ![image](https://github.com/alan-vp/Index/assets/99031027/86006410-8f96-46ce-9248-0822e7494a95)
+
+# Admin Dashboard.
+
+![image](https://github.com/alan-vp/Index/assets/99031027/f2322a7d-feb8-4fb9-9636-dd63702cc1b3)
+
+# User Dashboard displaying entrance records.
+
+![image](https://github.com/alan-vp/Index/assets/99031027/e9d7fabe-06df-4b84-a665-be92d707dff6)
+
+# Profile page.
+
+![image](https://github.com/alan-vp/Index/assets/99031027/0ffd7f8f-3078-491b-a943-92e1eb1feb24)
 
 
    
