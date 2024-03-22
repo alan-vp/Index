@@ -29,13 +29,13 @@ In this position, I developed custom templates and features, and worked on the a
  <a name="modi"></a> In this case I created some custom sections and blocks for the specific requirements 
   * [Modi Toys](https://www.moditoys.com/)
  <a name="jade"></a>
-  * [Jade Swim](https://jadeswim.com/)
+  * [Jade Swim](https://jadeswim.com/) 
  <a name="organic"></a>
-  * [Organic Beer](https://organicbeer.it/)
+  * [Organic Beer](https://organicbeer.it/) 
  <a name="paperless"></a>
-  * [Paperless Post](https://www.paperlesspost.com/)
- <a name="canoe"></a> Worked on the general appearance of the site, and some specific functions like the search bar
-  * [Canoe](https://shopcanoeclub.com/)
+  * [Paperless Post](https://www.paperlesspost.com/) Redesign of the email campaign templates (Checkout, add to cart). 
+ <a name="canoe"></a> 
+  * [Canoe](https://shopcanoeclub.com/) Worked on the general appearance of the site, and some specific functions like the search bar.
  <a name="etnies"></a>
   * [Etnies](https://etnies.com/)
 
