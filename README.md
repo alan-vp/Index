@@ -2,7 +2,7 @@
 This is an index to some projects. You will find them organized by the main language and each project has an introduction to them.
 
 ## Contents     
-* [Liquid Shopify Stores](#shopify)
+## [Liquid Shopify Stores](#shopify)
  * [Tosi](#tosi)
  * [Modi Toys](#modi)
  * [Jade Swim](#jade)
@@ -12,12 +12,12 @@ This is an index to some projects. You will find them organized by the main lang
  * [Frannie](#frannie)
  * [Etnies](#etnies)
 
-* [Ruby on Rails Proyects](#ror)
+## [Ruby on Rails Proyects](#ror)
  * [Checkpoint Access](#checkpoint) 
  * [Hanndy](#handdy)
  * [Te llevo](#tellevo)
 
-* [Javascipt Proyects](#js)
+## [Javascipt Proyects](#js)
  * [Api-Weather](#weather)
      
 <a name="shopify"></a>
