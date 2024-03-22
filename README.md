@@ -34,26 +34,12 @@ The challenge was to build the app from scratch, design the architecture, models
 The general functionalities for all users are: login, logout, edit their profile, and check all the entrance and exit registers among other standard functionalities.
 For the admin, there are exclusive functionalities: CRUD actions for users, companies, or company vehicles.
 For non-admin there are also exclusive functionalities: create entrance and exit records.
-
-# Login.
-
-![image](https://github.com/alan-vp/Index/assets/99031027/86006410-8f96-46ce-9248-0822e7494a95)
-
-# Admin Dashboard.
-
-![image](https://github.com/alan-vp/Index/assets/99031027/f2322a7d-feb8-4fb9-9636-dd63702cc1b3)
-
-# User Dashboard displaying entrance records.
-
-![image](https://github.com/alan-vp/Index/assets/99031027/e9d7fabe-06df-4b84-a665-be92d707dff6)
-
-# Profile page.
-
-![image](https://github.com/alan-vp/Index/assets/99031027/0ffd7f8f-3078-491b-a943-92e1eb1feb24)
-
-
-   
+  
 <a name="handdy"></a>
-  * [Handdy Repo](https://github.com/alan-vp/Handdy-App)
+  * [Handdy Repo](https://github.com/alan-vp/Handdy-App) This app emulates a marketplace where people can offer or request personal services to carry out repairs at home/office.
+    This app was also built from scratch and has standard CRUD actions for users, login, logout, authorization, and authentication methods.
+    An interesting function is the option to chat between users.
+
   <a name="tellevo"></a>
-   * [Te llevo Repo](https://github.com/JuliJuarez/tellevo)
+   * [Te llevo Repo](https://github.com/JuliJuarez/tellevo) This app is inspired in "Bla blah car" a carpooling app, where users can offer and request for roadtrips to save money in expenses.
+     This app was also built from scratch and has standard CRUD actions for users, login, logout, authorization, and authentication methods.
