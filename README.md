@@ -52,9 +52,11 @@ The main goal of this project was to practice making API calls to a remote servi
   * [Checkpoint Repo](https://github.com/alan-vp/checkpoint_access)
 This is an app for companies or organizations to track and control the access and exits of employees, company vehicles, and visitors.
 The challenge was to build the app from scratch, design the architecture, the models, and the associations between them. Implement authorization and authentication methods.
-The general functionalities for all users are: login, logout, edit their profile, and check all the entrance and exit registers.
+The general functionalities for all users are: login, logout, edit their profile, and check all the entrance and exit registers among other standard functionalities.
 For the admin users there are exclusive functionalities: create new users, companies, or company vehicle registers, and also the capability to edit them, also set a user, company, or company vehicle as active or inactive, or even 
-For the non-admin users are also exclusive functionalities: create entrance and exit registers.  
+For the non-admin users are also exclusive functionalities: create entrance and exit registers.
+![image](https://github.com/alan-vp/Index/assets/99031027/7eeb428c-7441-437a-91c8-e81c8b151a83)
+
    
 <a name="handdy"></a>
   * [Handdy Repo](https://github.com/alan-vp/Handdy-App)
