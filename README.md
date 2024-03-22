@@ -23,7 +23,7 @@ This is an index to some projects. You will find them organized by the main lang
 <a name="shopify"></a>
 ## Liquid Shopify Stores.
 <a name="tosi"></a>
-  * Tosi.
+  * [Tosi](https://tosi.com/)
  <a name="modi"></a>
   * Modi Toys.
  <a name="jade"></a>
