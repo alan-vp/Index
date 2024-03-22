@@ -7,13 +7,14 @@ This is an index to some projects. You will find them organized by the main lang
    * Handdy
    * Checkpoint Access
 * Javascript Projects.
+*   Api-Weather
 
 * Liquid Shopify Stores.
-*    Tosi.
-*    Modi Toys.
-*    Jade Swim.
-*    Etnies.
-*    Organic Beer.
-*    Paperless.
-*    Canoe.
-*    Frannie.
+*      Tosi.
+*      Modi Toys.
+*      Jade Swim.
+*      Etnies.
+*      Organic Beer.
+*      Paperless.
+*      Canoe.
+*      Frannie.
