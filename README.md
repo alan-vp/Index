@@ -28,8 +28,8 @@ The main goal of this project was to consume an API and render the information d
 
 ## Ruby on Rails Projects.
 <a name="checkpoint"></a>
-  * [Checkpoint Repo](https://github.com/alan-vp/checkpoint_access)
-This is an app focused on companies or organizations. It's an entrance/exit tracker of employees, company vehicles, and visitors.
+  * [Checkpoint Repo](https://github.com/alan-vp/checkpoint_access/blob/main/README.md)
+ This is an app focused on companies or organizations. It's an entrance/exit tracker of employees, company vehicles, and visitors.
 The challenge was to build the app from scratch, design the architecture, models, and associations between them. Implement authorization and authentication methods.
 The general functionalities for all users are: login, logout, edit their profile, and check all the entrance and exit registers among other standard functionalities.
 For the admin, there are exclusive functionalities: CRUD actions for users, companies, or company vehicles.
