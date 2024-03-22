@@ -3,8 +3,8 @@ This is an index to some projects. You will find them organized by the main lang
 
 ## Contents
 * [Ruby on Rails Proyects](#ror)
-* [Javascipt Proyects] (#js)
-* [Liquid Shopify Stores] (#shopify)
+* [Javascipt Proyects](#js)
+* [Liquid Shopify Stores](#shopify)
 <a name="#ror"> </a>
 ## Ruby on Rails Projects.
    * Te llevo
