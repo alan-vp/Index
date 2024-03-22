@@ -7,49 +7,49 @@ This is an index to some projects. You will find them organized by the main lang
  * [Modi Toys](#modi)
  * [Jade Swim](#jade)
  * [Organic Beer](#organic)
- * [Paperless](#paperless)
+ * [Paperless Post](#paperless)
  * [Canoe](#canoe)
  * [Frannie](#frannie)
  * [Etnies](#etnies)
 
+## [Javascipt Proyects](#js)
+ * [Api-Weather](#weather)
+   
 ## [Ruby on Rails Proyects](#ror)
  * [Checkpoint Access](#checkpoint) 
  * [Hanndy](#handdy)
  * [Te llevo](#tellevo)
-
-## [Javascipt Proyects](#js)
- * [Api-Weather](#weather)
      
 <a name="shopify"></a>
 ## Liquid Shopify Stores.
 <a name="tosi"></a>
   * [Tosi](https://tosi.com/)
  <a name="modi"></a>
-  * Modi Toys.
+  * [Modi Toys](https://www.moditoys.com/)
  <a name="jade"></a>
-  * Jade Swim.
+  * [Jade Swim](https://jadeswim.com/)
  <a name="organic"></a>
-  * Organic Beer.
+  * [Organic Beer](https://organicbeer.it/)
  <a name="paperless"></a>
-  * Paperless.
+  * [Paperless Post](https://www.paperlesspost.com/)
  <a name="canoe"></a>
   * Canoe.
  <a name="frannie"></a>
   * Frannie.
  <a name="etnies"></a>
-  * Etnies.
+  * [Etnies](https://etnies.com/)
 
 <a name="ror"></a>
 ## Ruby on Rails Projects.
 <a name="checkpoint"></a>
-  * Checkpoint Access.
+  * [Checkpoint Access Repo](https://github.com/alan-vp/checkpoint_access)
 <a name="handdy"></a>
-  * Handdy.
+  * [Handdy Repo](https://github.com/alan-vp/Handdy-App)
   <a name="tellevo"></a>
-   * Te llevo.
+   * [Te llevo Repo](https://github.com/JuliJuarez/tellevo)
 
 <a name="js"></a>
 ## Javascript Projects.
 <a name="weather"></a>
 [Live version](https://cute-meerkat-09dd3b.netlify.app/)
-*   Api-Weather
+*   Api-Weather Repo
